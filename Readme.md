@@ -1,7 +1,7 @@
 **🍽️ Zomato Dashboard Project (Power BI)**
 
-This project is an \*\*interactive Power BI dashboard\*\* created for analyzing Zomato restaurant data.    
-It provides insights into \*\*restaurant performance, customer behavior, sales trends, and food preferences\*\* using \*\*DAX, Power Query, and KPIs\*\*.
+This project is an **interactive Power BI dashboard** created for analyzing Zomato restaurant data.    
+It provides insights into restaurant performance, customer behavior, sales trends, and food preferences using \*\*DAX, Power Query, and KPIs\*\*.
 
  **📊 Dashboard Highlights**
 
