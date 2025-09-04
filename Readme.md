@@ -32,6 +32,7 @@ Tables Used:
 * Restaurant  
 * Users  
 * Measure\_Table
+* RankTable
 
 🖼️ Dashboard Preview
 
