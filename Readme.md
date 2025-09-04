@@ -37,7 +37,7 @@ Tables Used:
 
 ![Zomato_Dashboard](index.png)
 
-![Zomato_Dashboard](overview.png)
+![overview](overview.png)
 
 ![Zomato_Dashboard](userperformance.png)
 
